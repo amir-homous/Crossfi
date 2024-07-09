@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Crossfi Autoclicker
 // @version      1.0
-// @author       mudachyo
+// @author       amir-homous
 // @match        *://bot.crossfi.org/*
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/26202.png
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Crossfi
+// @downloadURL  https://github.com/amir-homous/Crossfi/raw/main/crossfi-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/Crossfi/raw/main/crossfi-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/Crossfi
 // ==/UserScript==
 
 (function() {
